@@ -9,7 +9,7 @@ Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://w
 # Read Me
 *I am a cup of tea*
 Image on repo:  
-![experiment](![<Screen Shot 2023-05-28 at 10.56.45 AM.png>]./file-name.jpg)
+![experiment](./Screen Shot 2023-05-28 at 10.56.45 AM.png)
 
 
 
